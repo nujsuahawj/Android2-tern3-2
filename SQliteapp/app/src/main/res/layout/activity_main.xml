@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:gravity="center"
+        android:layout_margin="30dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#03DAC6"
+        android:layout_marginBottom="60dp"
+        android:layout_marginTop="60dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp"
+            android:padding="8dp"
+            android:text="ຫ້ອງ 3cw1"
+            android:textColor="@android:color/holo_green_dark"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="1dp"
+            android:textColor="@android:color/holo_green_dark"
+            android:background="@android:color/holo_green_dark"
+            android:layout_marginBottom="50dp"/>
+
+        <Button
+            android:id="@+id/btnSave"
+            android:layout_gravity="center"
+            android:text="ບັນທຶກ"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:id="@+id/btnSelectAllData"
+            android:layout_gravity="center"
+            android:text="ສະແດງຂໍ້ມູນ"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+</LinearLayout>

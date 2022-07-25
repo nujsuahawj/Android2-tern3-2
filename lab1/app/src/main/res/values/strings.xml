@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ທ ນູຊົ່ວ ເຮີ ຫ້ອງ cw1</string>
+    <string name="name">ຊື່...</string>
+    <string name="password_0_9">ລະຫັດ...</string>
+    <string name="e_mail">ອີເມວ...</string>
+    <string name="date">ວັນທີ່...</string>
+    <string name="contact_number">ເບີໂທ...</string>
+    <string name="submit">ບັນທຶກ</string>
+    <string name="submitr">ຍົກເລີກ</string>
+</resources>

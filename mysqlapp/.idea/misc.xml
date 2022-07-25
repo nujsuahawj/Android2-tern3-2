@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android-2/mysqlapp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android-2/mysqlapp/app/src/main/res/layout/activity_manage_data.xml" value="0.25" />
+        <entry key="..\:/Android-2/mysqlapp/app/src/main/res/layout/activity_save_data.xml" value="0.25" />
+        <entry key="..\:/Android-2/mysqlapp/app/src/main/res/layout/activity_show_data.xml" value="0.25" />
+        <entry key="..\:/Android-2/mysqlapp/app/src/main/res/layout/activity_show_data2.xml" value="0.25" />
+        <entry key="..\:/Users/Advice/AndroidStudioProjects/mysql/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Advice/AndroidStudioProjects/mysql/app/src/main/res/layout/activity_manage_data.xml" value="0.2" />
+        <entry key="..\:/Users/Advice/AndroidStudioProjects/mysql/app/src/main/res/layout/activity_save_data.xml" value="0.264" />
+        <entry key="..\:/Users/Advice/AndroidStudioProjects/mysql/app/src/main/res/layout/activity_show_data.xml" value="0.264" />
+        <entry key="..\:/Users/Advice/AndroidStudioProjects/mysql/app/src/main/res/layout/activity_show_data2.xml" value="0.2" />
+        <entry key="..\:/Users/Sengk/Documents/GitHub/university/year3-2/android_projects/mysql/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/mysql/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/mysql/app/src/main/res/layout/activity_manage_data.xml" value="0.27447916666666666" />
+        <entry key="..\:/mysql/app/src/main/res/layout/activity_save_data.xml" value="0.27447916666666666" />
+        <entry key="..\:/mysql/app/src/main/res/layout/activity_show_data.xml" value="0.27447916666666666" />
+        <entry key="..\:/mysql/app/src/main/res/layout/activity_show_data2.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

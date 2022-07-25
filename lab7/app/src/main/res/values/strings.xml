@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DropdowList</string>
+    <string name="country_prompt">Choose a Nordic Country</string>
+    <string-array name="country_array">
+        <item>Denmark</item>
+        <item>Faroe Islands</item>
+        <item>Finland</item>
+        <item>Iceland</item>
+        <item>Norway</item>
+        <item>Svalbard and Jan Mayen</item>
+        <item>Sweden</item>
+    </string-array>
+    <string name="animal_prompt">Choose your favorite animal</string>
+</resources>

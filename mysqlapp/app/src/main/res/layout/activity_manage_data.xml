@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_margin="10dp"
+    android:gravity="center"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Manage_data">
+
+
+  <LinearLayout
+      android:background="#F0FFC6"
+      android:layout_margin="10dp"
+      android:orientation="vertical"
+      android:layout_width="match_parent"
+      android:layout_height="250dp">
+
+
+      <EditText
+          android:textStyle="bold"
+          android:id="@+id/txtid"
+          android:hint="ລະຫັດ"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"/>
+      <EditText
+          android:textStyle="bold"
+          android:id="@+id/txtname"
+          android:hint="ຊື່"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"/>
+      <EditText
+          android:textStyle="bold"
+          android:id="@+id/txtsurname"
+          android:hint="ນາມສະກຸນ"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"/>
+      <EditText
+          android:textStyle="bold"
+          android:inputType="phone"
+          android:id="@+id/txttel"
+          android:hint="ເບີໂທ"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"/>
+
+      <LinearLayout
+          android:orientation="horizontal"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content">
+
+          <Button
+              android:textStyle="bold"
+              android:layout_marginRight="5dp"
+              android:layout_weight="1"
+              android:id="@+id/btnSave"
+              android:backgroundTint="#6D95C5"
+              android:text="ບັນທືກຂໍ້ມູນ"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"/>
+          <Button
+              android:textStyle="bold"
+              android:layout_marginLeft="5dp"
+              android:layout_weight="1"
+              android:backgroundTint="#6D95C5"
+              android:id="@+id/btnDelete"
+              android:text="ລືບຂໍ້ມູນ"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"/>
+
+      </LinearLayout>
+
+  </LinearLayout>
+
+</LinearLayout>
